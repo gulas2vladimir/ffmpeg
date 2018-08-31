@@ -32,7 +32,9 @@ output.mp4
 ```
 
 #### Deinterlace:
+```
 -vf "yadif=0:-1:0"
+```
 
 ### TS stream h264 native:
 ```
